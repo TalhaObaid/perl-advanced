@@ -1,0 +1,24 @@
+me has jewel
+troll has diamond
+cave contains sword
+me is in cave
+troll is in cave
+thief is in attic
+cave north goes to mine
+cave east goes to house
+house up goes to attic
+house contains lamp
+attic contains knife
+attic down goes to house
+house west goes to cave
+thief has map
+mine contains shovel
+mine down goes to pit
+pit contains statue
+pit up goes to mine
+bird is in forest
+house east goes to forest
+forest west goes to house
+house down goes to mine
+mine east goes to dam
+dam west goes to mine
